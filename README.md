@@ -1,6 +1,20 @@
 # cam-voice-assistant
 
-[English](README.md) | [Polski](README.pl.md)
+<details open>
+<summary>English</summary>
+
+Real-time voice & vision AI assistant for Reolink cameras. It listens through the camera's microphone, looks at the video stream and answers through the camera's speaker.
+
+**Status:** work in progress – stage 1 of 5. Not affiliated with Reolink.
+</details>
+
+<details>
+<summary>Polski</summary>
+
+Asystent głosowy i wizyjny AI dla kamer Reolink w czasie rzeczywistym. Nasłuchuje przez mikrofon kamery, obserwuje strumień wideo i odpowiada przez głośnik kamery.
+
+**Status:** prace w toku – etap 1 z 5. Brak powiązań z Reolink.
+</details>
 
 Real-time voice & vision AI assistant for Reolink cameras. It listens through the
 camera's microphone, looks at the video stream and answers through the camera's speaker.
