@@ -1,0 +1,25 @@
+# --- secrets and home data: never in the repository ---
+.env
+config/go2rtc.yaml
+config/neolink.toml
+vault/
+recordings/
+probe.wav
+probe.jpg
+
+# --- Python runtime, tools, and build artifacts ---
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.coverage
+.coverage.*
+htmlcov/
+coverage.xml
+build/
+dist/
+*.egg-info/
