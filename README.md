@@ -3,7 +3,7 @@
 [English](#user-content-english) · [Polski](#user-content-polski)
 
 <details name="readme-language">
-<summary>Polski</summary>
+<summary aria-label="Pokaż lub ukryj polską wersję README"></summary>
 
 <a id="polski"></a>Asystent głosowy i wizyjny AI dla kamer Reolink w czasie rzeczywistym. Nasłuchuje przez mikrofon kamery, obserwuje strumień wideo i odpowiada przez głośnik kamery.
 
@@ -30,7 +30,7 @@ MIT
 </details>
 
 <details open name="readme-language">
-<summary>English</summary>
+<summary aria-label="Show or hide the English README"></summary>
 
 <a id="english"></a>Real-time voice & vision AI assistant for Reolink cameras. It listens through the
 camera's microphone, looks at the video stream and answers through the camera's speaker.
