@@ -1,22 +1,38 @@
 # cam-voice-assistant
 
-<details open>
-<summary>English</summary>
+[English](#user-content-english) · [Polski](#user-content-polski)
 
-Real-time voice & vision AI assistant for Reolink cameras. It listens through the camera's microphone, looks at the video stream and answers through the camera's speaker.
+<details name="readme-language">
+<summary aria-label="Pokaż lub ukryj polską wersję README"></summary>
 
-**Status:** work in progress – stage 1 of 5. Not affiliated with Reolink.
-</details>
-
-<details>
-<summary>Polski</summary>
-
-Asystent głosowy i wizyjny AI dla kamer Reolink w czasie rzeczywistym. Nasłuchuje przez mikrofon kamery, obserwuje strumień wideo i odpowiada przez głośnik kamery.
+<a id="polski"></a>Asystent głosowy i wizyjny AI dla kamer Reolink w czasie rzeczywistym. Nasłuchuje przez mikrofon kamery, obserwuje strumień wideo i odpowiada przez głośnik kamery.
 
 **Status:** prace w toku – etap 1 z 5. Brak powiązań z Reolink.
+
+## Plan rozwoju
+
+- [ ] v0.1.0 – odbiór dźwięku i obrazu z kamery na serwerze
+- [ ] v0.2.0 – mówienie przez głośnik kamery
+- [ ] v0.3.0 – rozmowa z AI w czasie rzeczywistym (Gemini Live)
+- [ ] v0.4.0 – połączenie kamery z AI, słowo wybudzające, narzędzia
+- [ ] v1.0.0 – wdrożenie w Dockerze do pracy całodobowej i dokumentacja
+
+## Testowany sprzęt
+
+| Kamera            | Oprogramowanie układowe | Tor audio do głośnika | Uwagi |
+| ----------------- | ----------------------- | --------------------- | ----- |
+| Reolink RP-PCT12M |                         | jeszcze nietestowany  |       |
+
+## Licencja
+
+MIT
+
 </details>
 
-Real-time voice & vision AI assistant for Reolink cameras. It listens through the
+<details open name="readme-language">
+<summary aria-label="Show or hide the English README"></summary>
+
+<a id="english"></a>Real-time voice & vision AI assistant for Reolink cameras. It listens through the
 camera's microphone, looks at the video stream and answers through the camera's speaker.
 
 **Status:** work in progress – stage 1 of 5. Not affiliated with Reolink.
@@ -38,3 +54,5 @@ camera's microphone, looks at the video stream and answers through the camera's 
 ## License
 
 MIT
+
+</details>

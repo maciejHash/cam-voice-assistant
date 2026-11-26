@@ -1,6 +1,8 @@
 # Server setup
 
+
 Tested on: Debian 13 (trixie), Intel Core i5-7300HQ, 8GB RAM.
+
 
 ## 1. Packages
 
