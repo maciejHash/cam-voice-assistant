@@ -1,6 +1,6 @@
 # Camera setup (Reolink RP-PCT12M)
 
-Firmware tested: v3.2.0.4954_2509019551
+Firmware tested: v3.2.0
 
 1. Update the firmware (Reolink app or client).
 2. Enable RTSP (554), ONVIF (8000) and HTTP in the network/port settings.

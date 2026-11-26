@@ -11,3 +11,5 @@ All notable changes to this project are documented in this file.
 - Server setup guide
 
 - Camera setup guide and first RP-PCT12M results.
+
+- go2rtc example config and docker-compose.
