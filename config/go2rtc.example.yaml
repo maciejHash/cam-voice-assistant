@@ -2,8 +2,8 @@
 streams:
   # audio + video for the assistant, without the backchannel
   pokoj:
-    - rtsp://ai_bot:CHANGE_ME@192.168.1.50:554/h264Preview_01_sub#backchannel=0
+    - rtsp://admin:CHANGE_ME@192.168.50.23:554/h264Preview_01_sub#backchannel=0
   # separate stream for talking through the speaker (stage 2) + Opus audio for the browser
   pokoj_glosnik:
-    - rtsp://ai_bot:CHANGE_ME@192.168.1.50:554/h264Preview_01_sub
+    - rtsp://admin:CHANGE_ME@192.168.50.23:554/h264Preview_01_sub
     - ffmpeg:pokoj_glosnik#audio=opus

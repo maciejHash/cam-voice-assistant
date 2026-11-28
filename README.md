@@ -47,9 +47,9 @@ camera's microphone, looks at the video stream and answers through the camera's 
 
 ## Tested hardware
 
-| Camera            | Firmware               | Speaker path   | Notes           |
-| ----------------- | ---------------------- | -------------- | --------------- |
-| Reolink RP-PCT12M | v3.2.0.4954_2509019551 | not tested yet | sub: h264 + aac |
+| Camera            | Firmware | Speaker path   | Notes           |
+| ----------------- | -------- | -------------- | --------------- |
+| Reolink RP-PCT12M | v3.2.0   | not tested yet | sub: h264 + aac |
 
 ## License
 
